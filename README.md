@@ -7,4 +7,4 @@ This project is a Maven-based Java application which demonstrates a CI/CD pipeli
 Clone the repository to your local machine:
 
 
-This is a change on the main branch.
+This is a change on the branch.
