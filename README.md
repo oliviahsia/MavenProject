@@ -5,4 +5,5 @@ This project is a Maven-based Java application which demonstrates a CI/CD pipeli
 ## Getting Started
 
 Clone the repository to your local machine:
-This is a change on the calculator branch.
+
+This is a change on the branch.
