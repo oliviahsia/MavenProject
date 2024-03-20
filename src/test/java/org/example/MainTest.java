@@ -14,7 +14,6 @@ class MainTest {
     @BeforeEach
     void setUp() {
         calculator = new Main();
-        // calculator = new Main();
     }
 
     @Test
